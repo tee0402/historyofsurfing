@@ -1,0 +1,18 @@
+body {
+  background-image: url("surf.jpg");
+  color: orange;
+  text-align: center;
+}
+
+h1, h2 {
+  font-family: "Lobster", cursive;
+}
+
+p {
+  font-family: "Bree Serif", serif;
+}
+
+img {
+  width: 200px;
+  margin: 0 50px;
+}
